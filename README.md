@@ -1,2 +1,2 @@
 # Ultimate alarm clock
-This is the first version of the readme.
+This is the 2nd version of the readme.
